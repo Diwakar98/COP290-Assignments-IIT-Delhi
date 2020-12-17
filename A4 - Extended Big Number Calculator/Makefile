@@ -1,0 +1,2 @@
+ALL:
+	@${MAKE} -C src

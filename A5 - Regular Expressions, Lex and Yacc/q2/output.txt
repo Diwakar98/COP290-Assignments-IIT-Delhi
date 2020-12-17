@@ -1,0 +1,6 @@
+* + 2 3 - 6 4 10
++ 1 4 5
+INVALID INPUT
+- 4 5 -1
+INVALID INPUT
+* 3 7 21
